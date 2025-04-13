@@ -675,28 +675,30 @@ bash convert_and_date.sh /home/user/Изображения
 <table>
 <tr>Пример</tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/ES-room.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/ES-room.jp2"/></td></tr>
+<img src="/lab3/images-jpg/ES-room.jpg"/></td><td>
+<img src="/lab3/images-jp2/ES-room.jp2"/></td></tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/bg/mike_room_night.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/bg/mike_room_night.jp2"/></td></tr>
+<img src="/lab3/images-jpg/bg/mike_room_night.jpg"/></td><td>
+<img src="/lab3/images-jp2/bg/mike_room_night.jp2"/></td></tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/bg/room_mc_night_light.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/bg/room_mc_night_light.jp2"/></td></tr>
+<img src="/lab3/images-jpg/bg/room_mc_night_light.jpg"/></td><td>
+<img src="/lab3/images-jp2/bg/room_mc_night_light.jp2"/></td></tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/bg/school_roof_day_puddle.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/bg/school_roof_day_puddle.jp2"/></td></tr>
+<img src="/lab3/images-jpg/bg/school_roof_day_puddle.jpg"/></td><td>
+<img src="/lab3/images-jp2/bg/school_roof_day_puddle.jp2"/></td></tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/bg/tokyo_street_night.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/bg/tokyo_street_night.jp2"/></td></tr>
+<img src="/lab3/images-jpg/bg/tokyo_street_night.jpg"/></td><td>
+<img src="/lab3/images-jp2/bg/tokyo_street_night.jp2"/></td></tr>
 <tr><td>До</td><td>После</td></tr><tr><td>
-<img src="/lab3/images/bg/garden_sunset.jpg"/></td><td>
-<img src="/lab3/processed_images_20250412/bg/garden_sunset.jp2"/></td></tr>
+<img src="/lab3/images-jpg/bg/garden_sunset.jpg"/></td><td>
+<img src="/lab3/images-jp2/bg/garden_sunset.jp2"/></td></tr>
 </table>
 </div>
 
-![jp2](/lab3/processed_images_20250412/ES-room.jp2)
-
+> [!IMPORTANT]  
+> Так как предпросотр изображений формата ```JPEG2000``` на GitHub не поддерживается, 
+я создал копии этих изображений и конвертировал их обратно в формат ```jpg```.  
+> Та часть изображений которая была загружена в формате ```JPEG2000``` доступна [здесь](/lab3/processed_images_20250412/).  
 
 ***
 
